@@ -16,7 +16,7 @@ Repositório de apresentação pessoal. Aqui você encontra meus principais proj
 ---
 
 ## 📌 Projetos em destaque
-- [🌐 Website Responsivo](link_do_repositorio)  
+- [🌐 Website Responsivo](https://github.com/leocotsa/Website-Responsivo)  
   Website moderno e adaptável para dispositivos móveis, seguindo boas práticas de acessibilidade.  
 
 - [📂 Sistema de Cadastro em Python](link_do_repositorio)  
