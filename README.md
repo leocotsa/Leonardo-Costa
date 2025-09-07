@@ -19,7 +19,7 @@ Repositório de apresentação pessoal. Aqui você encontra meus principais proj
 - [🌐 Website Responsivo](https://github.com/leocotsa/Website-Responsivo)  
   Website moderno e adaptável para dispositivos móveis, seguindo boas práticas de acessibilidade.  
 
-- [📂 Sistema de Cadastro em Python](link_do_repositorio)  
+- [📂 Sistema de Cadastro em Python](https://github.com/leocotsa/Sistema-de-Cadastro-em-Python/blob/main/README.md)  
   Sistema funcional de cadastro e consulta de usuários, com armazenamento estruturado de dados.  
 
 ---
